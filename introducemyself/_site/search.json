@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello, world! My name is Rong Wan. I’m a Master of Data Science (MDS) student at the University of British Columbia (UBC). I’m passionate about leveraging data to uncover insights and solve real-world problems. My focus is on applying advanced data science techniques, including machine learning and statistical analysis, to diverse datasets. As I continue my journey, I’m excited to contribute to the field and collaborate on innovative data-driven projects!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "introducemyself",
+    "section": "",
+    "text": "Hello, world! My name is Rong Wan. I’m a Master of Data Science (MDS) student at the University of British Columbia (UBC). I’m passionate about leveraging data to uncover insights and solve real-world problems. My focus is on applying advanced data science techniques, including machine learning and statistical analysis, to diverse datasets. As I continue my journey, I’m excited to contribute to the field and collaborate on innovative data-driven projects!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
